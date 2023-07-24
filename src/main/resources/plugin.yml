@@ -1,0 +1,4 @@
+name: NoGamemodeVoidDeath
+version: '${project.version}'
+main: de.nikey.nogamemodevoiddeath.NoGamemodeVoidDeath
+api-version: '1.20'
