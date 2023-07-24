@@ -2,15 +2,11 @@ package de.nikey.nogamemodevoiddeath;
 
 import org.bukkit.GameMode;
 import org.bukkit.entity.Entity;
-import org.bukkit.entity.LivingEntity;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.entity.EntityDamageEvent;
-import org.bukkit.event.entity.EntityDeathEvent;
-import org.bukkit.event.entity.EntityPotionEffectEvent;
 import org.bukkit.event.entity.PlayerDeathEvent;
-import org.bukkit.potion.PotionEffect;
-import org.bukkit.potion.PotionEffectType;
+
 
 public class Listener implements org.bukkit.event.Listener {
     @EventHandler
